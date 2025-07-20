@@ -1,7 +1,7 @@
 
 # Spam_Mail_Prediction
 ``` shell
-   Spam Mail Prediction is a machine learning model which is aimed to filter out whether the message in an email is Spam(junk mesage) or Ham(good message).
+   Spam Mail Prediction is a machine learning model which is aimed to filter out whether the message in an email is Spam(junk mesage) or good message.
 Used Logistic Regression Model to classify data.
 ```
 ### Requirements
