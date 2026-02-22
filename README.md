@@ -6,7 +6,7 @@ Used Logistic Regression Model to classify data.
 ```
 ### Requirements
 ``` shell
-  Python dependencies: Pandas, Nmpy, Sklearn,
+  Python dependencies: Pandas, Numpy, Sklearn,
 ```
 ### Project Workflow 
 <img src = "https://user-images.githubusercontent.com/92446670/198002581-e7fc6541-770f-4d21-8aec-276246473936.png" height = "400">
